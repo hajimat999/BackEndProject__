@@ -10228,11 +10228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baku\\Desktop\\ASP.NETCoreTask\\Back_EndProject\\FinalProject\\FinalProject.csproj",
-      "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\Baku\\Desktop\\ASP.NETCoreTask\\Back_EndProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\Baku\\Desktop\\ASP.NETCoreTask\\BackEndProject\\FinalProject\\BackEndProject.csproj",
+      "projectName": "BackEndProject",
+      "projectPath": "C:\\Users\\Baku\\Desktop\\ASP.NETCoreTask\\BackEndProject\\FinalProject\\BackEndProject.csproj",
       "packagesPath": "C:\\Users\\Baku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baku\\Desktop\\ASP.NETCoreTask\\Back_EndProject\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\Baku\\Desktop\\ASP.NETCoreTask\\BackEndProject\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config",
